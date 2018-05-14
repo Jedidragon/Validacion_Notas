@@ -11,7 +11,7 @@ public class Main {
      *
      * @param args son los parametros de argumento que hemos introdicido en las posiciones [0],[1],[2] del main
      */
-    public static void main(String[] args) {
+    private static void main(String[] args) {
 
             String valor1;
             String valor2;
